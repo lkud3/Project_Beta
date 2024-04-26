@@ -1,2 +1,4 @@
 # Project_Beta
 The repository of my final project on CS230 at American College at Thessaloniki. The showcase of coding on C++ and working with files.
+## Description
+The task was to develop a program containing the 5-option menu that runs until the user decides to exit and enter the 5th option. This menu should give the user the opportunity to interact with files, primarily extracting information from the .csv file about the top scorers of the football World Cup Qatar 2022 and performing different opportunities to manipulate these statistics. For each user input, the program must check the correctness of the entered data. If the user entered something incorrectly, the program should warn about this and ask the user to enter the data again. The code should be well commented and clearly organized, give clear instructions to the user throughout the work and do not waste time or memory using.
